@@ -1,5 +1,5 @@
 framework module Zip {
-  umbrella header "Zip-iOS-umbrella.h"
+  umbrella header "Zip.h"
 
   export *
   module * { export * }
